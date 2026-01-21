@@ -25,14 +25,11 @@ Automated Reporting: Generates a log file with the person's location and total m
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-[][ROS2-url]
-
-[][Python-url]
-
-[][Gazebo-url]
-
-[][YOLOv8-url]
-
+* [![ROS2][ros2-shield]][ros2-url]
+* [![Python][python-shield]][python-url]
+* [![Gazebo][gazebo-shield]][gazebo-url]
+* [![YoloV8][yolov8-shield]][yolov8-url]
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -100,6 +97,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-url]: https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues
 
 [ros2-url]: https://docs.ros.org/en/humble/index.html
+[ros2-shield]: https://img.shields.io/ros/v/humble/vision_msgs
 [python-url]: https://www.python.org
+[python-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [gazebo-url]: https://gazebosim.org/docs/latest/getstarted
+[gazebo-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [yolov8-url]: https://github.com/ultralytics/ultralytics
+[yolov8-shield]: https://img.shields.io/badge/yolo-000000?style=for-the-badge&logo=yolo&logoColor=white
