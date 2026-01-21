@@ -56,7 +56,7 @@ Copy the repository
 
 <div align="center">
   <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">
-    <img src="GrafcetT2.svg" alt="Logo" width="80" height="80">
+    <img src="GrafcetT2.svg" alt="Logo" width="360" height="720">
   </a>
   <h3 align="center">Best-README-Template</h3>
 </div>
