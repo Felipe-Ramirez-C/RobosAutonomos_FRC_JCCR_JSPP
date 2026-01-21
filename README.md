@@ -45,7 +45,7 @@ Prerequisites:
 ### Installation
 Install Clearpath Husky simulation packages
   ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP.git
    ```
 
 Bash sudo apt install ros-humble-clearpath*
@@ -77,7 +77,7 @@ Juan Camilo Castro Rizo - juan.rizo@edu.ufes.br
 
 Juan Sebastian Parra Perdomo - juan.perdomo@edu.ufes.br
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP](https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
