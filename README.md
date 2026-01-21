@@ -4,8 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br /> <div align="center"> <h3 align="center">Autonomous Human Search and Positioning</h3>
 
@@ -38,11 +36,14 @@ Automated Reporting: Generates a log file with the person's location and total m
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-Prerequisites
-Ubuntu 22.04 LTS 
-ROS 2 Humble Hawksbill 
-Gazebo Simulator 
-YOLOv8 (Ultralytics)
+## Getting Started
+
+Prerequisites:
+* Ubuntu 22.04 LTS 
+* ROS 2 Humble Hawksbill 
+* Gazebo Simulator
+* Clearpath 
+* YOLOv8 (Ultralytics)
 
 ### Installation
 Install Clearpath Husky simulation packages
@@ -82,10 +83,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgments
   * Prof. Ricardo Mello
   * Clearpath Robotics Tutorials
-  *Ultralytics YOLOv8 Documentation
-  *ROS 2 Humble Documentation
+  * Ultralytics YOLOv8 Documentation
+  * ROS 2 Humble Documentation
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>[]: 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
