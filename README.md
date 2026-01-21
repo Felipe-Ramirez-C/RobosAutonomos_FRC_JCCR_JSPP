@@ -53,6 +53,14 @@ Copy the repository
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+<div align="center">
+  <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">
+    <img src="GrafcetT2.svg" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Best-README-Template</h3>
+</div>
+
 To launch the full simulation, including the environment, robot, and autonomous nodes11:Bashros2 launch your_package_name simulation.launch.py
 Known Simulation FixesIf the robot model or TFs do not appear in RViz automatically, run the visualization launch in a separate terminal12121212:Bashros2 launch clearpath_viz view_robot.launch.py namespace: a200
 
