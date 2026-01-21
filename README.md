@@ -59,19 +59,50 @@ Install Python dependencies for YOLOv8:Bashpip install ultralytics
 Build the workspace:Bashcd ~/ros2_ws
 colcon build --symlink-install
 source install/setup.bash
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Usage To launch the full simulation, including the environment, robot, and autonomous nodes11:Bashros2 launch your_package_name simulation.launch.py
+
+<!-- USAGE EXAMPLES -->
+## Usage
+To launch the full simulation, including the environment, robot, and autonomous nodes11:Bashros2 launch your_package_name simulation.launch.py
 Known Simulation FixesIf the robot model or TFs do not appear in RViz automatically, run the visualization launch in a separate terminal12121212:Bashros2 launch clearpath_viz view_robot.launch.py namespace: a200
-<p align="right">(<a href="#readme-top">back to top</a>)</p>Roadmap[x] Integrate Clearpath Husky with ROS 2 Humble13131313.[x] Implement LiDAR-based wall tracking logic.[x] Integrate YOLOv8 for human detection.[ ] Optimize Real-Time Factor (RTF) for faster simulation14.[ ] Enhance side-positioning PID controllers15.<p align="right">(<a href="#readme-top">back to top</a>)</p>ContactYour Name - your_email@example.comProject Link: https://github.com/your_username/your_repo<p align="right">(<a href="#readme-top">back to top</a>)</p>AcknowledgmentsProf. Ricardo Mello - PPGEE-0552 16Clearpath Robotics Tutorials 17Ultralytics YOLOv8 DocumentationROS 2 Humble Documentation
+<p align="right">(<a href="#readme-top">back to top</a>)</p>Roadmap[x] Integrate Clearpath Husky with ROS 2 Humble13131313.[x] Implement LiDAR-based wall tracking logic.[x] Integrate YOLOv8 for human detection.[ ] Optimize Real-Time Factor (RTF) for faster simulation14.[ ] Enhance side-positioning PID controllers15.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+  * Prof. Ricardo Mello
+  * Clearpath Robotics Tutorials
+  *Ultralytics YOLOv8 Documentation
+  *ROS 2 Humble Documentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>[]: 
 
-[contributors-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/graphs/contributors%5D$https://github.com/your_username/your_repo/graphs/contributors
-[forks-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/network/members%5D$https://github.com/your_username/your_repo/network/members
-[stars-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/stargazers%5D$https://github.com/your_username/your_repo/stargazers
-[issues-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/issues%5D$https://github.com/your_username/your_repo/issues
-[license-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/blob/master/LICENSE%5D$https://github.com/your_username/your_repo/blob/master/LICENSE
-[ros2-url]: https://www.google.com/search?q=%5Bhttps://docs.ros.org/en/humble/%5D$https://docs.ros.org/en/humble/
-[python-url]: https://www.google.com/search?q=%5Bhttps://www.python.org/%5D$https://www.python.org/
-[gazebo-url]: https://www.google.com/search?q=%5Bhttps://gazebosim.org/%5D$https://gazebosim.org/
+<!-- MARKDOWN LINKS & IMAGES -->
+[]: #
+[contributors-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/graphs/contributors%5D$https://github.com/your_username/your_repo/graphs/contributors$
+[]: #
+[forks-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/network/members%5D$https://github.com/your_username/your_repo/network/members$
+[]: #
+[stars-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/stargazers%5D$https://github.com/your_username/your_repo/stargazers$
+[]: #
+[issues-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/issues%5D$https://github.com/your_username/your_repo/issues$
+[]: #
+[license-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/blob/master/LICENSE%5D$https://github.com/your_username/your_repo/blob/master/LICENSE$
+[]: #
+[ros2-url]: https://www.google.com/search?q=%5Bhttps://docs.ros.org/en/humble/%5D$https://docs.ros.org/en/humble/$
+[]: #
+[python-url]: https://www.google.com/search?q=%5Bhttps://www.python.org/%5D$https://www.python.org/$
+[]: #
+[gazebo-url]: https://www.google.com/search?q=%5Bhttps://gazebosim.org/%5D$https://gazebosim.org/$
+[]: #
 [yolov8-url]: https://www.google.com/search?q=%5Bhttps://github.com/ultralytics/ultralytics%5D$https://github.com/ultralytics/ultralytics$
