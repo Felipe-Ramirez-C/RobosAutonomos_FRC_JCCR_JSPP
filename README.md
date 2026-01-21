@@ -56,15 +56,9 @@ Copy the repository
 ## Usage
 
 <div align="center">
-  <table bgcolor="white">
-  <tr>
-    <td>
-      <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">
-        <img src="GrafcetT2.svg" alt="Logo" width="360" height="720">
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">    
+    <img src="GrafcetT2.svg" alt="Logo" width="360" height="720">  
+  </a> 
   <h3 align="center">Grafcet for navifation process</h3>
 </div>
 
