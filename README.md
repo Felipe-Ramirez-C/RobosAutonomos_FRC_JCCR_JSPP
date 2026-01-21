@@ -58,7 +58,7 @@ Copy the repository
   <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">
     <img src="GrafcetT2.svg" alt="Logo" width="360" height="720">
   </a>
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Grafcet for navifation process</h3>
 </div>
 
 To launch the full simulation, including the environment, robot, and autonomous nodes11:Bashros2 launch your_package_name simulation.launch.py
