@@ -70,7 +70,9 @@ Known Simulation FixesIf the robot model or TFs do not appear in RViz automatica
 
 <!-- CONTACT -->
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Felipe Ramirez Cortes - felipe.cortes@edu.ufes.br
+Juan Camilo Castro Rizo - juan.rizo@edu.ufes.br
+Juan Sebastian Parra Perdomo - juan.perdomo@edu.ufes.br
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
