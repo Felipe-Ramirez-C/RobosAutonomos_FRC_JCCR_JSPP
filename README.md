@@ -7,12 +7,12 @@
 
 <br /> <div align="center"> <h3 align="center">Autonomous Human Search and Positioning</h3>
 
-<p align="center"> A ROS 2 Humble project for autonomous navigation, human detection using YOLOv8, and side-positioning with a Clearpath Husky A200. <br /> <a href="https://github.com/your_username/your_repo"><strong>Explore the docs »</strong></a> <br /> <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">View Demo</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Report Bug</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Request Feature</a> </p> </div>
+<p align="center"> A ROS 2 Humble project for autonomous navigation, human detection using YOLOv8, and side-positioning with a Clearpath Husky A200. <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP"><strong>Explore the docs »</strong></a> <br /> <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">View Demo</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Report Bug</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Request Feature</a> </p> </div>
 
 
 
 
-<details> <summary>Table of Contents</summary> <ol> <li> <a href="#about-the-project">About The Project</a> <ul> <li><a href="#built-with">Built With</a></li> </ul> </li> <li> <a href="#getting-started">Getting Started</a> <ul> <li><a href="#prerequisites">Prerequisites</a></li> <li><a href="#installation">Installation</a></li> </ul> </li> <li><a href="#usage">Usage</a></li> <li><a href="#roadmap">Roadmap</a></li> <li><a href="#contact">Contact</a></li> <li><a href="#acknowledgments">Acknowledgments</a></li> </ol> </details>
+<details> <summary>Table of Contents</summary> <ol> <li> <a href="#about-the-project">About The Project</a> <ul> <li><a href="#built-with">Built With</a></li> </ul> </li> <li> <a href="#getting-started">Getting Started</a> <ul> <li><a href="#prerequisites">Prerequisites</a></li> <li><a href="#installation">Installation</a></li> </ul> </li> <li><a href="#usage">Usage</a></li> <li><a href="#contact">Contact</a></li> <li><a href="#acknowledgments">Acknowledgments</a></li> </ol> </details>
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
