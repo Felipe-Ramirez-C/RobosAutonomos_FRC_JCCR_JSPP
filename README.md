@@ -101,6 +101,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [python-url]: https://www.python.org
 [python-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [gazebo-url]: https://gazebosim.org/docs/latest/getstarted
-[gazebo-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
+[gazebo-shield]: https://img.shields.io/badge/gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white
 [yolov8-url]: https://github.com/ultralytics/ultralytics
 [yolov8-shield]: https://img.shields.io/badge/yolo-000000?style=for-the-badge&logo=yolo&logoColor=white
