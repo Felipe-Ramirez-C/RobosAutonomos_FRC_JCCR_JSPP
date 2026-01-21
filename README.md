@@ -88,21 +88,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>[]: 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[]: #
-[contributors-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/graphs/contributors%5D$https://github.com/your_username/your_repo/graphs/contributors$
-[]: #
-[forks-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/network/members%5D$https://github.com/your_username/your_repo/network/members$
-[]: #
-[stars-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/stargazers%5D$https://github.com/your_username/your_repo/stargazers$
-[]: #
-[issues-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/issues%5D$https://github.com/your_username/your_repo/issues$
-[]: #
-[license-url]: https://www.google.com/search?q=%5Bhttps://github.com/your_username/your_repo/blob/master/LICENSE%5D$https://github.com/your_username/your_repo/blob/master/LICENSE$
-[]: #
-[ros2-url]: https://www.google.com/search?q=%5Bhttps://docs.ros.org/en/humble/%5D$https://docs.ros.org/en/humble/$
-[]: #
-[python-url]: https://www.google.com/search?q=%5Bhttps://www.python.org/%5D$https://www.python.org/$
-[]: #
-[gazebo-url]: https://www.google.com/search?q=%5Bhttps://gazebosim.org/%5D$https://gazebosim.org/$
-[]: #
-[yolov8-url]: https://www.google.com/search?q=%5Bhttps://github.com/ultralytics/ultralytics%5D$https://github.com/ultralytics/ultralytics$
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP.svg?style=for-the-badge
+[contributors-url]: https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP.svg?style=for-the-badge
+[forks-url]: https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/network/members
+[stars-shield]: https://img.shields.io/github/stars/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP.svg?style=for-the-badge
+[stars-url]: https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP.svg?style=for-the-badge
+[issues-url]: https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues
+
+[ros2-url]: https://docs.ros.org/en/humble/index.html
+[python-url]: https://www.python.org
+[gazebo-url]: https://gazebosim.org/docs/latest/getstarted
+[yolov8-url]: https://github.com/ultralytics/ultralytics
