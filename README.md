@@ -19,10 +19,11 @@
 This project addresses the challenge of autonomous exploration and human interaction in a complex "office" environment. The robot, a Clearpath Husky A200 equiped with 2d LiDAR, IMU and camera as sensors, it autonomously navigate a partially unknown space to find a person, signal their location, and position itself precisely next to them.
 
 Key features:
-100% Autonomy: No teleoperation or external commands during the task.
-Intelligent Perception: Utilizes YOLOv8 for human classification and pose identification.
-Wall-Following Logic: Custom LiDAR-based navigation for environment exploration.
-Automated Reporting: Generates a log file with the person's location and total mission time.
+* 100% Autonomy: No teleoperation or external commands during the task.
+* Intelligent Perception: Utilizes YOLOv8 for human classification and pose identification.
+* Wall-Following Logic: Custom LiDAR-based navigation for environment exploration.
+* Automated Reporting: Generates a log file with the person's location and total mission time.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
