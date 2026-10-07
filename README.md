@@ -7,7 +7,7 @@
 
 <br /> <div align="center"> <h3 align="center">Autonomous Human Search and Positioning</h3>
 
-<p align="center"> A ROS 2 Humble project for autonomous navigation, human detection using YOLOv8, and side-positioning with a Clearpath Husky A200. <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP"><strong>Explore the docs »</strong></a> <br /> <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">View Demo</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Report Bug</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Request Feature</a> </p> </div>
+<p align="center"> A ROS 2 Humble project for autonomous navigation, human detection using YOLOv8, and side-positioning with a Clearpath  Husky A200. <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP"><strong>Explore the docs »</strong></a> <br /> <br /> <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP">View Demo</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Report Bug</a> · <a href="https://github.com/Felipe-Ramirez-C/RobosAutonomos_FRC_JCCR_JSPP/issues">Request Feature</a> </p> </div>
 
 
 
